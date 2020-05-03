@@ -1,0 +1,332 @@
+C:\Murach\aspnet_46\Instructor\Projects\sol\3-C_SportsPro\SportsPro\bin\roslyn\csc.exe
+C:\Murach\aspnet_46\Instructor\Projects\sol\3-C_SportsPro\SportsPro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Murach\aspnet_46\Instructor\Projects\sol\3-C_SportsPro\SportsPro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Murach\aspnet_46\Instructor\Projects\sol\3-C_SportsPro\SportsPro\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Murach\aspnet_46\Instructor\Projects\sol\3-C_SportsPro\SportsPro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Murach\aspnet_46\Instructor\Projects\sol\3-C_SportsPro\SportsPro\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Murach\aspnet_46\Instructor\Projects\sol\3-C_SportsPro\SportsPro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Murach\aspnet_46\Instructor\Projects\sol\3-C_SportsPro\SportsPro\bin\roslyn\System.Collections.Immutable.dll
+C:\Murach\aspnet_46\Instructor\Projects\sol\3-C_SportsPro\SportsPro\bin\roslyn\System.Reflection.Metadata.dll
+C:\Murach\aspnet_46\Instructor\Projects\sol\3-C_SportsPro\SportsPro\bin\roslyn\vbc.exe
+C:\Murach\aspnet_46\Instructor\Projects\sol\3-C_SportsPro\SportsPro\bin\roslyn\VBCSCompiler.exe
+C:\Murach\aspnet_46\Instructor\Projects\sol\3-C_SportsPro\SportsPro\bin\roslyn\VBCSCompiler.exe.config
+C:\Murach\aspnet_46\Instructor\Projects\sol\3-C_SportsPro\SportsPro\bin\SportsPro.dll.config
+C:\Murach\aspnet_46\Instructor\Projects\sol\3-C_SportsPro\SportsPro\bin\SportsPro.dll
+C:\Murach\aspnet_46\Instructor\Projects\sol\3-C_SportsPro\SportsPro\bin\SportsPro.pdb
+C:\Murach\aspnet_46\Instructor\Projects\sol\3-C_SportsPro\SportsPro\bin\Antlr3.Runtime.dll
+C:\Murach\aspnet_46\Instructor\Projects\sol\3-C_SportsPro\SportsPro\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Murach\aspnet_46\Instructor\Projects\sol\3-C_SportsPro\SportsPro\bin\AspNet.ScriptManager.jQuery.dll
+C:\Murach\aspnet_46\Instructor\Projects\sol\3-C_SportsPro\SportsPro\bin\EntityFramework.dll
+C:\Murach\aspnet_46\Instructor\Projects\sol\3-C_SportsPro\SportsPro\bin\EntityFramework.SqlServer.dll
+C:\Murach\aspnet_46\Instructor\Projects\sol\3-C_SportsPro\SportsPro\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Murach\aspnet_46\Instructor\Projects\sol\3-C_SportsPro\SportsPro\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Murach\aspnet_46\Instructor\Projects\sol\3-C_SportsPro\SportsPro\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Murach\aspnet_46\Instructor\Projects\sol\3-C_SportsPro\SportsPro\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Murach\aspnet_46\Instructor\Projects\sol\3-C_SportsPro\SportsPro\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Murach\aspnet_46\Instructor\Projects\sol\3-C_SportsPro\SportsPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Murach\aspnet_46\Instructor\Projects\sol\3-C_SportsPro\SportsPro\bin\Microsoft.Owin.dll
+C:\Murach\aspnet_46\Instructor\Projects\sol\3-C_SportsPro\SportsPro\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Murach\aspnet_46\Instructor\Projects\sol\3-C_SportsPro\SportsPro\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Murach\aspnet_46\Instructor\Projects\sol\3-C_SportsPro\SportsPro\bin\Microsoft.Owin.Security.dll
+C:\Murach\aspnet_46\Instructor\Projects\sol\3-C_SportsPro\SportsPro\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Murach\aspnet_46\Instructor\Projects\sol\3-C_SportsPro\SportsPro\bin\Microsoft.Owin.Security.Google.dll
+C:\Murach\aspnet_46\Instructor\Projects\sol\3-C_SportsPro\SportsPro\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Murach\aspnet_46\Instructor\Projects\sol\3-C_SportsPro\SportsPro\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Murach\aspnet_46\Instructor\Projects\sol\3-C_SportsPro\SportsPro\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Murach\aspnet_46\Instructor\Projects\sol\3-C_SportsPro\SportsPro\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Murach\aspnet_46\Instructor\Projects\sol\3-C_SportsPro\SportsPro\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Murach\aspnet_46\Instructor\Projects\sol\3-C_SportsPro\SportsPro\bin\Microsoft.Web.Infrastructure.dll
+C:\Murach\aspnet_46\Instructor\Projects\sol\3-C_SportsPro\SportsPro\bin\Newtonsoft.Json.dll
+C:\Murach\aspnet_46\Instructor\Projects\sol\3-C_SportsPro\SportsPro\bin\Owin.dll
+C:\Murach\aspnet_46\Instructor\Projects\sol\3-C_SportsPro\SportsPro\bin\System.Web.Optimization.dll
+C:\Murach\aspnet_46\Instructor\Projects\sol\3-C_SportsPro\SportsPro\bin\System.Web.Providers.dll
+C:\Murach\aspnet_46\Instructor\Projects\sol\3-C_SportsPro\SportsPro\bin\WebGrease.dll
+C:\Murach\aspnet_46\Instructor\Projects\sol\3-C_SportsPro\SportsPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Murach\aspnet_46\Instructor\Projects\sol\3-C_SportsPro\SportsPro\bin\System.Web.Optimization.xml
+C:\Murach\aspnet_46\Instructor\Projects\sol\3-C_SportsPro\SportsPro\bin\Antlr3.Runtime.pdb
+C:\Murach\aspnet_46\Instructor\Projects\sol\3-C_SportsPro\SportsPro\bin\Newtonsoft.Json.xml
+C:\Murach\aspnet_46\Instructor\Projects\sol\3-C_SportsPro\SportsPro\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Murach\aspnet_46\Instructor\Projects\sol\3-C_SportsPro\SportsPro\bin\EntityFramework.xml
+C:\Murach\aspnet_46\Instructor\Projects\sol\3-C_SportsPro\SportsPro\bin\EntityFramework.SqlServer.xml
+C:\Murach\aspnet_46\Instructor\Projects\sol\3-C_SportsPro\SportsPro\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Murach\aspnet_46\Instructor\Projects\sol\3-C_SportsPro\SportsPro\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Murach\aspnet_46\Instructor\Projects\sol\3-C_SportsPro\SportsPro\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Murach\aspnet_46\Instructor\Projects\sol\3-C_SportsPro\SportsPro\bin\System.Web.Providers.xml
+C:\Murach\aspnet_46\Instructor\Projects\sol\3-C_SportsPro\SportsPro\bin\Microsoft.Owin.xml
+C:\Murach\aspnet_46\Instructor\Projects\sol\3-C_SportsPro\SportsPro\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Murach\aspnet_46\Instructor\Projects\sol\3-C_SportsPro\SportsPro\bin\Microsoft.Owin.Security.xml
+C:\Murach\aspnet_46\Instructor\Projects\sol\3-C_SportsPro\SportsPro\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Murach\aspnet_46\Instructor\Projects\sol\3-C_SportsPro\SportsPro\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Murach\aspnet_46\Instructor\Projects\sol\3-C_SportsPro\SportsPro\bin\Microsoft.Owin.Security.Google.xml
+C:\Murach\aspnet_46\Instructor\Projects\sol\3-C_SportsPro\SportsPro\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Murach\aspnet_46\Instructor\Projects\sol\3-C_SportsPro\SportsPro\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Murach\aspnet_46\Instructor\Projects\sol\3-C_SportsPro\SportsPro\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Murach\aspnet_46\Instructor\Projects\sol\3-C_SportsPro\SportsPro\obj\Debug\SportsPro.csprojResolveAssemblyReference.cache
+C:\Murach\aspnet_46\Instructor\Projects\sol\3-C_SportsPro\SportsPro\obj\Debug\SportsPro.dll
+C:\Murach\aspnet_46\Instructor\Projects\sol\3-C_SportsPro\SportsPro\obj\Debug\SportsPro.pdb
+C:\aspnet46_cs\project_solutions\3-C_SportsPro\SportsPro\bin\roslyn\csc.exe
+C:\aspnet46_cs\project_solutions\3-C_SportsPro\SportsPro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\aspnet46_cs\project_solutions\3-C_SportsPro\SportsPro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\aspnet46_cs\project_solutions\3-C_SportsPro\SportsPro\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\aspnet46_cs\project_solutions\3-C_SportsPro\SportsPro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\aspnet46_cs\project_solutions\3-C_SportsPro\SportsPro\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\aspnet46_cs\project_solutions\3-C_SportsPro\SportsPro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\aspnet46_cs\project_solutions\3-C_SportsPro\SportsPro\bin\roslyn\System.Collections.Immutable.dll
+C:\aspnet46_cs\project_solutions\3-C_SportsPro\SportsPro\bin\roslyn\System.Reflection.Metadata.dll
+C:\aspnet46_cs\project_solutions\3-C_SportsPro\SportsPro\bin\roslyn\vbc.exe
+C:\aspnet46_cs\project_solutions\3-C_SportsPro\SportsPro\bin\roslyn\VBCSCompiler.exe
+C:\aspnet46_cs\project_solutions\3-C_SportsPro\SportsPro\bin\roslyn\VBCSCompiler.exe.config
+C:\aspnet46_cs\project_solutions\3-C_SportsPro\SportsPro\bin\SportsPro.dll.config
+C:\aspnet46_cs\project_solutions\3-C_SportsPro\SportsPro\bin\SportsPro.dll
+C:\aspnet46_cs\project_solutions\3-C_SportsPro\SportsPro\bin\SportsPro.pdb
+C:\aspnet46_cs\project_solutions\3-C_SportsPro\SportsPro\bin\Antlr3.Runtime.dll
+C:\aspnet46_cs\project_solutions\3-C_SportsPro\SportsPro\bin\AspNet.ScriptManager.bootstrap.dll
+C:\aspnet46_cs\project_solutions\3-C_SportsPro\SportsPro\bin\AspNet.ScriptManager.jQuery.dll
+C:\aspnet46_cs\project_solutions\3-C_SportsPro\SportsPro\bin\EntityFramework.dll
+C:\aspnet46_cs\project_solutions\3-C_SportsPro\SportsPro\bin\EntityFramework.SqlServer.dll
+C:\aspnet46_cs\project_solutions\3-C_SportsPro\SportsPro\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\aspnet46_cs\project_solutions\3-C_SportsPro\SportsPro\bin\Microsoft.AspNet.Identity.Core.dll
+C:\aspnet46_cs\project_solutions\3-C_SportsPro\SportsPro\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\aspnet46_cs\project_solutions\3-C_SportsPro\SportsPro\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\aspnet46_cs\project_solutions\3-C_SportsPro\SportsPro\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\aspnet46_cs\project_solutions\3-C_SportsPro\SportsPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\aspnet46_cs\project_solutions\3-C_SportsPro\SportsPro\bin\Microsoft.Owin.dll
+C:\aspnet46_cs\project_solutions\3-C_SportsPro\SportsPro\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\aspnet46_cs\project_solutions\3-C_SportsPro\SportsPro\bin\Microsoft.Owin.Security.Cookies.dll
+C:\aspnet46_cs\project_solutions\3-C_SportsPro\SportsPro\bin\Microsoft.Owin.Security.dll
+C:\aspnet46_cs\project_solutions\3-C_SportsPro\SportsPro\bin\Microsoft.Owin.Security.Facebook.dll
+C:\aspnet46_cs\project_solutions\3-C_SportsPro\SportsPro\bin\Microsoft.Owin.Security.Google.dll
+C:\aspnet46_cs\project_solutions\3-C_SportsPro\SportsPro\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\aspnet46_cs\project_solutions\3-C_SportsPro\SportsPro\bin\Microsoft.Owin.Security.OAuth.dll
+C:\aspnet46_cs\project_solutions\3-C_SportsPro\SportsPro\bin\Microsoft.Owin.Security.Twitter.dll
+C:\aspnet46_cs\project_solutions\3-C_SportsPro\SportsPro\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\aspnet46_cs\project_solutions\3-C_SportsPro\SportsPro\bin\Microsoft.ScriptManager.WebForms.dll
+C:\aspnet46_cs\project_solutions\3-C_SportsPro\SportsPro\bin\Microsoft.Web.Infrastructure.dll
+C:\aspnet46_cs\project_solutions\3-C_SportsPro\SportsPro\bin\Newtonsoft.Json.dll
+C:\aspnet46_cs\project_solutions\3-C_SportsPro\SportsPro\bin\Owin.dll
+C:\aspnet46_cs\project_solutions\3-C_SportsPro\SportsPro\bin\System.Web.Optimization.dll
+C:\aspnet46_cs\project_solutions\3-C_SportsPro\SportsPro\bin\System.Web.Providers.dll
+C:\aspnet46_cs\project_solutions\3-C_SportsPro\SportsPro\bin\WebGrease.dll
+C:\aspnet46_cs\project_solutions\3-C_SportsPro\SportsPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\aspnet46_cs\project_solutions\3-C_SportsPro\SportsPro\bin\System.Web.Optimization.xml
+C:\aspnet46_cs\project_solutions\3-C_SportsPro\SportsPro\bin\Antlr3.Runtime.pdb
+C:\aspnet46_cs\project_solutions\3-C_SportsPro\SportsPro\bin\Newtonsoft.Json.xml
+C:\aspnet46_cs\project_solutions\3-C_SportsPro\SportsPro\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\aspnet46_cs\project_solutions\3-C_SportsPro\SportsPro\bin\EntityFramework.xml
+C:\aspnet46_cs\project_solutions\3-C_SportsPro\SportsPro\bin\EntityFramework.SqlServer.xml
+C:\aspnet46_cs\project_solutions\3-C_SportsPro\SportsPro\bin\Microsoft.AspNet.Identity.Core.xml
+C:\aspnet46_cs\project_solutions\3-C_SportsPro\SportsPro\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\aspnet46_cs\project_solutions\3-C_SportsPro\SportsPro\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\aspnet46_cs\project_solutions\3-C_SportsPro\SportsPro\bin\System.Web.Providers.xml
+C:\aspnet46_cs\project_solutions\3-C_SportsPro\SportsPro\bin\Microsoft.Owin.xml
+C:\aspnet46_cs\project_solutions\3-C_SportsPro\SportsPro\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\aspnet46_cs\project_solutions\3-C_SportsPro\SportsPro\bin\Microsoft.Owin.Security.xml
+C:\aspnet46_cs\project_solutions\3-C_SportsPro\SportsPro\bin\Microsoft.Owin.Security.Facebook.xml
+C:\aspnet46_cs\project_solutions\3-C_SportsPro\SportsPro\bin\Microsoft.Owin.Security.Cookies.xml
+C:\aspnet46_cs\project_solutions\3-C_SportsPro\SportsPro\bin\Microsoft.Owin.Security.Google.xml
+C:\aspnet46_cs\project_solutions\3-C_SportsPro\SportsPro\bin\Microsoft.Owin.Security.Twitter.xml
+C:\aspnet46_cs\project_solutions\3-C_SportsPro\SportsPro\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\aspnet46_cs\project_solutions\3-C_SportsPro\SportsPro\bin\Microsoft.Owin.Security.OAuth.xml
+C:\aspnet46_cs\project_solutions\3-C_SportsPro\SportsPro\obj\Debug\SportsPro.csprojResolveAssemblyReference.cache
+C:\aspnet46_cs\project_solutions\3-C_SportsPro\SportsPro\obj\Debug\SportsPro.dll
+C:\aspnet46_cs\project_solutions\3-C_SportsPro\SportsPro\obj\Debug\SportsPro.pdb
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\WIP\SP3BStarter\SportsPro\bin\roslyn\csc.exe
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\WIP\SP3BStarter\SportsPro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\WIP\SP3BStarter\SportsPro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\WIP\SP3BStarter\SportsPro\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\WIP\SP3BStarter\SportsPro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\WIP\SP3BStarter\SportsPro\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\WIP\SP3BStarter\SportsPro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\WIP\SP3BStarter\SportsPro\bin\roslyn\System.Collections.Immutable.dll
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\WIP\SP3BStarter\SportsPro\bin\roslyn\System.Reflection.Metadata.dll
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\WIP\SP3BStarter\SportsPro\bin\roslyn\vbc.exe
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\WIP\SP3BStarter\SportsPro\bin\roslyn\VBCSCompiler.exe
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\WIP\SP3BStarter\SportsPro\bin\roslyn\VBCSCompiler.exe.config
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\WIP\SP3BStarter\SportsPro\bin\SportsPro.dll.config
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\WIP\SP3BStarter\SportsPro\bin\SportsPro.dll
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\WIP\SP3BStarter\SportsPro\bin\SportsPro.pdb
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\WIP\SP3BStarter\SportsPro\bin\Antlr3.Runtime.dll
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\WIP\SP3BStarter\SportsPro\bin\AspNet.ScriptManager.bootstrap.dll
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\WIP\SP3BStarter\SportsPro\bin\AspNet.ScriptManager.jQuery.dll
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\WIP\SP3BStarter\SportsPro\bin\EntityFramework.dll
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\WIP\SP3BStarter\SportsPro\bin\EntityFramework.SqlServer.dll
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\WIP\SP3BStarter\SportsPro\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\WIP\SP3BStarter\SportsPro\bin\Microsoft.AspNet.Identity.Core.dll
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\WIP\SP3BStarter\SportsPro\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\WIP\SP3BStarter\SportsPro\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\WIP\SP3BStarter\SportsPro\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\WIP\SP3BStarter\SportsPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\WIP\SP3BStarter\SportsPro\bin\Microsoft.Owin.dll
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\WIP\SP3BStarter\SportsPro\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\WIP\SP3BStarter\SportsPro\bin\Microsoft.Owin.Security.Cookies.dll
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\WIP\SP3BStarter\SportsPro\bin\Microsoft.Owin.Security.dll
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\WIP\SP3BStarter\SportsPro\bin\Microsoft.Owin.Security.Facebook.dll
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\WIP\SP3BStarter\SportsPro\bin\Microsoft.Owin.Security.Google.dll
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\WIP\SP3BStarter\SportsPro\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\WIP\SP3BStarter\SportsPro\bin\Microsoft.Owin.Security.OAuth.dll
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\WIP\SP3BStarter\SportsPro\bin\Microsoft.Owin.Security.Twitter.dll
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\WIP\SP3BStarter\SportsPro\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\WIP\SP3BStarter\SportsPro\bin\Microsoft.ScriptManager.WebForms.dll
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\WIP\SP3BStarter\SportsPro\bin\Microsoft.Web.Infrastructure.dll
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\WIP\SP3BStarter\SportsPro\bin\Newtonsoft.Json.dll
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\WIP\SP3BStarter\SportsPro\bin\Owin.dll
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\WIP\SP3BStarter\SportsPro\bin\System.Web.Optimization.dll
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\WIP\SP3BStarter\SportsPro\bin\System.Web.Providers.dll
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\WIP\SP3BStarter\SportsPro\bin\WebGrease.dll
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\WIP\SP3BStarter\SportsPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\WIP\SP3BStarter\SportsPro\bin\System.Web.Optimization.xml
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\WIP\SP3BStarter\SportsPro\bin\Antlr3.Runtime.pdb
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\WIP\SP3BStarter\SportsPro\bin\Newtonsoft.Json.xml
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\WIP\SP3BStarter\SportsPro\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\WIP\SP3BStarter\SportsPro\bin\EntityFramework.xml
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\WIP\SP3BStarter\SportsPro\bin\EntityFramework.SqlServer.xml
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\WIP\SP3BStarter\SportsPro\bin\Microsoft.AspNet.Identity.Core.xml
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\WIP\SP3BStarter\SportsPro\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\WIP\SP3BStarter\SportsPro\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\WIP\SP3BStarter\SportsPro\bin\System.Web.Providers.xml
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\WIP\SP3BStarter\SportsPro\bin\Microsoft.Owin.xml
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\WIP\SP3BStarter\SportsPro\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\WIP\SP3BStarter\SportsPro\bin\Microsoft.Owin.Security.xml
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\WIP\SP3BStarter\SportsPro\bin\Microsoft.Owin.Security.Facebook.xml
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\WIP\SP3BStarter\SportsPro\bin\Microsoft.Owin.Security.Cookies.xml
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\WIP\SP3BStarter\SportsPro\bin\Microsoft.Owin.Security.Google.xml
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\WIP\SP3BStarter\SportsPro\bin\Microsoft.Owin.Security.Twitter.xml
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\WIP\SP3BStarter\SportsPro\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\WIP\SP3BStarter\SportsPro\bin\Microsoft.Owin.Security.OAuth.xml
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\WIP\SP3BStarter\SportsPro\obj\Debug\SportsPro.csprojResolveAssemblyReference.cache
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\WIP\SP3BStarter\SportsPro\obj\Debug\SportsPro.dll
+C:\!Curriculum 2015-2016\CIS296 Adv MS Web PC\WIP\SP3BStarter\SportsPro\obj\Debug\SportsPro.pdb
+C:\!CIS Curriculum\CIS296 Adv MS Web PC\!Grading - Sec 1\SP3BStarter\SP3BStarter\SportsPro\bin\roslyn\csc.exe
+C:\!CIS Curriculum\CIS296 Adv MS Web PC\!Grading - Sec 1\SP3BStarter\SP3BStarter\SportsPro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\!CIS Curriculum\CIS296 Adv MS Web PC\!Grading - Sec 1\SP3BStarter\SP3BStarter\SportsPro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\!CIS Curriculum\CIS296 Adv MS Web PC\!Grading - Sec 1\SP3BStarter\SP3BStarter\SportsPro\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\!CIS Curriculum\CIS296 Adv MS Web PC\!Grading - Sec 1\SP3BStarter\SP3BStarter\SportsPro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\!CIS Curriculum\CIS296 Adv MS Web PC\!Grading - Sec 1\SP3BStarter\SP3BStarter\SportsPro\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\!CIS Curriculum\CIS296 Adv MS Web PC\!Grading - Sec 1\SP3BStarter\SP3BStarter\SportsPro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\!CIS Curriculum\CIS296 Adv MS Web PC\!Grading - Sec 1\SP3BStarter\SP3BStarter\SportsPro\bin\roslyn\System.Collections.Immutable.dll
+C:\!CIS Curriculum\CIS296 Adv MS Web PC\!Grading - Sec 1\SP3BStarter\SP3BStarter\SportsPro\bin\roslyn\System.Reflection.Metadata.dll
+C:\!CIS Curriculum\CIS296 Adv MS Web PC\!Grading - Sec 1\SP3BStarter\SP3BStarter\SportsPro\bin\roslyn\vbc.exe
+C:\!CIS Curriculum\CIS296 Adv MS Web PC\!Grading - Sec 1\SP3BStarter\SP3BStarter\SportsPro\bin\roslyn\VBCSCompiler.exe
+C:\!CIS Curriculum\CIS296 Adv MS Web PC\!Grading - Sec 1\SP3BStarter\SP3BStarter\SportsPro\bin\roslyn\VBCSCompiler.exe.config
+C:\!CIS Curriculum\CIS296 Adv MS Web PC\!Grading - Sec 1\SP3BStarter\SP3BStarter\SportsPro\bin\SportsPro.dll.config
+C:\!CIS Curriculum\CIS296 Adv MS Web PC\!Grading - Sec 1\SP3BStarter\SP3BStarter\SportsPro\bin\SportsPro.dll
+C:\!CIS Curriculum\CIS296 Adv MS Web PC\!Grading - Sec 1\SP3BStarter\SP3BStarter\SportsPro\bin\SportsPro.pdb
+C:\!CIS Curriculum\CIS296 Adv MS Web PC\!Grading - Sec 1\SP3BStarter\SP3BStarter\SportsPro\bin\Antlr3.Runtime.dll
+C:\!CIS Curriculum\CIS296 Adv MS Web PC\!Grading - Sec 1\SP3BStarter\SP3BStarter\SportsPro\bin\AspNet.ScriptManager.bootstrap.dll
+C:\!CIS Curriculum\CIS296 Adv MS Web PC\!Grading - Sec 1\SP3BStarter\SP3BStarter\SportsPro\bin\AspNet.ScriptManager.jQuery.dll
+C:\!CIS Curriculum\CIS296 Adv MS Web PC\!Grading - Sec 1\SP3BStarter\SP3BStarter\SportsPro\bin\EntityFramework.dll
+C:\!CIS Curriculum\CIS296 Adv MS Web PC\!Grading - Sec 1\SP3BStarter\SP3BStarter\SportsPro\bin\EntityFramework.SqlServer.dll
+C:\!CIS Curriculum\CIS296 Adv MS Web PC\!Grading - Sec 1\SP3BStarter\SP3BStarter\SportsPro\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\!CIS Curriculum\CIS296 Adv MS Web PC\!Grading - Sec 1\SP3BStarter\SP3BStarter\SportsPro\bin\Microsoft.AspNet.Identity.Core.dll
+C:\!CIS Curriculum\CIS296 Adv MS Web PC\!Grading - Sec 1\SP3BStarter\SP3BStarter\SportsPro\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\!CIS Curriculum\CIS296 Adv MS Web PC\!Grading - Sec 1\SP3BStarter\SP3BStarter\SportsPro\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\!CIS Curriculum\CIS296 Adv MS Web PC\!Grading - Sec 1\SP3BStarter\SP3BStarter\SportsPro\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\!CIS Curriculum\CIS296 Adv MS Web PC\!Grading - Sec 1\SP3BStarter\SP3BStarter\SportsPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\!CIS Curriculum\CIS296 Adv MS Web PC\!Grading - Sec 1\SP3BStarter\SP3BStarter\SportsPro\bin\Microsoft.Owin.dll
+C:\!CIS Curriculum\CIS296 Adv MS Web PC\!Grading - Sec 1\SP3BStarter\SP3BStarter\SportsPro\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\!CIS Curriculum\CIS296 Adv MS Web PC\!Grading - Sec 1\SP3BStarter\SP3BStarter\SportsPro\bin\Microsoft.Owin.Security.Cookies.dll
+C:\!CIS Curriculum\CIS296 Adv MS Web PC\!Grading - Sec 1\SP3BStarter\SP3BStarter\SportsPro\bin\Microsoft.Owin.Security.dll
+C:\!CIS Curriculum\CIS296 Adv MS Web PC\!Grading - Sec 1\SP3BStarter\SP3BStarter\SportsPro\bin\Microsoft.Owin.Security.Facebook.dll
+C:\!CIS Curriculum\CIS296 Adv MS Web PC\!Grading - Sec 1\SP3BStarter\SP3BStarter\SportsPro\bin\Microsoft.Owin.Security.Google.dll
+C:\!CIS Curriculum\CIS296 Adv MS Web PC\!Grading - Sec 1\SP3BStarter\SP3BStarter\SportsPro\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\!CIS Curriculum\CIS296 Adv MS Web PC\!Grading - Sec 1\SP3BStarter\SP3BStarter\SportsPro\bin\Microsoft.Owin.Security.OAuth.dll
+C:\!CIS Curriculum\CIS296 Adv MS Web PC\!Grading - Sec 1\SP3BStarter\SP3BStarter\SportsPro\bin\Microsoft.Owin.Security.Twitter.dll
+C:\!CIS Curriculum\CIS296 Adv MS Web PC\!Grading - Sec 1\SP3BStarter\SP3BStarter\SportsPro\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\!CIS Curriculum\CIS296 Adv MS Web PC\!Grading - Sec 1\SP3BStarter\SP3BStarter\SportsPro\bin\Microsoft.ScriptManager.WebForms.dll
+C:\!CIS Curriculum\CIS296 Adv MS Web PC\!Grading - Sec 1\SP3BStarter\SP3BStarter\SportsPro\bin\Microsoft.Web.Infrastructure.dll
+C:\!CIS Curriculum\CIS296 Adv MS Web PC\!Grading - Sec 1\SP3BStarter\SP3BStarter\SportsPro\bin\Newtonsoft.Json.dll
+C:\!CIS Curriculum\CIS296 Adv MS Web PC\!Grading - Sec 1\SP3BStarter\SP3BStarter\SportsPro\bin\Owin.dll
+C:\!CIS Curriculum\CIS296 Adv MS Web PC\!Grading - Sec 1\SP3BStarter\SP3BStarter\SportsPro\bin\System.Web.Optimization.dll
+C:\!CIS Curriculum\CIS296 Adv MS Web PC\!Grading - Sec 1\SP3BStarter\SP3BStarter\SportsPro\bin\System.Web.Providers.dll
+C:\!CIS Curriculum\CIS296 Adv MS Web PC\!Grading - Sec 1\SP3BStarter\SP3BStarter\SportsPro\bin\WebGrease.dll
+C:\!CIS Curriculum\CIS296 Adv MS Web PC\!Grading - Sec 1\SP3BStarter\SP3BStarter\SportsPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\!CIS Curriculum\CIS296 Adv MS Web PC\!Grading - Sec 1\SP3BStarter\SP3BStarter\SportsPro\bin\System.Web.Optimization.xml
+C:\!CIS Curriculum\CIS296 Adv MS Web PC\!Grading - Sec 1\SP3BStarter\SP3BStarter\SportsPro\bin\Antlr3.Runtime.pdb
+C:\!CIS Curriculum\CIS296 Adv MS Web PC\!Grading - Sec 1\SP3BStarter\SP3BStarter\SportsPro\bin\Newtonsoft.Json.xml
+C:\!CIS Curriculum\CIS296 Adv MS Web PC\!Grading - Sec 1\SP3BStarter\SP3BStarter\SportsPro\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\!CIS Curriculum\CIS296 Adv MS Web PC\!Grading - Sec 1\SP3BStarter\SP3BStarter\SportsPro\bin\EntityFramework.xml
+C:\!CIS Curriculum\CIS296 Adv MS Web PC\!Grading - Sec 1\SP3BStarter\SP3BStarter\SportsPro\bin\EntityFramework.SqlServer.xml
+C:\!CIS Curriculum\CIS296 Adv MS Web PC\!Grading - Sec 1\SP3BStarter\SP3BStarter\SportsPro\bin\Microsoft.AspNet.Identity.Core.xml
+C:\!CIS Curriculum\CIS296 Adv MS Web PC\!Grading - Sec 1\SP3BStarter\SP3BStarter\SportsPro\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\!CIS Curriculum\CIS296 Adv MS Web PC\!Grading - Sec 1\SP3BStarter\SP3BStarter\SportsPro\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\!CIS Curriculum\CIS296 Adv MS Web PC\!Grading - Sec 1\SP3BStarter\SP3BStarter\SportsPro\bin\System.Web.Providers.xml
+C:\!CIS Curriculum\CIS296 Adv MS Web PC\!Grading - Sec 1\SP3BStarter\SP3BStarter\SportsPro\bin\Microsoft.Owin.xml
+C:\!CIS Curriculum\CIS296 Adv MS Web PC\!Grading - Sec 1\SP3BStarter\SP3BStarter\SportsPro\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\!CIS Curriculum\CIS296 Adv MS Web PC\!Grading - Sec 1\SP3BStarter\SP3BStarter\SportsPro\bin\Microsoft.Owin.Security.xml
+C:\!CIS Curriculum\CIS296 Adv MS Web PC\!Grading - Sec 1\SP3BStarter\SP3BStarter\SportsPro\bin\Microsoft.Owin.Security.Facebook.xml
+C:\!CIS Curriculum\CIS296 Adv MS Web PC\!Grading - Sec 1\SP3BStarter\SP3BStarter\SportsPro\bin\Microsoft.Owin.Security.Cookies.xml
+C:\!CIS Curriculum\CIS296 Adv MS Web PC\!Grading - Sec 1\SP3BStarter\SP3BStarter\SportsPro\bin\Microsoft.Owin.Security.Google.xml
+C:\!CIS Curriculum\CIS296 Adv MS Web PC\!Grading - Sec 1\SP3BStarter\SP3BStarter\SportsPro\bin\Microsoft.Owin.Security.Twitter.xml
+C:\!CIS Curriculum\CIS296 Adv MS Web PC\!Grading - Sec 1\SP3BStarter\SP3BStarter\SportsPro\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\!CIS Curriculum\CIS296 Adv MS Web PC\!Grading - Sec 1\SP3BStarter\SP3BStarter\SportsPro\bin\Microsoft.Owin.Security.OAuth.xml
+C:\!CIS Curriculum\CIS296 Adv MS Web PC\!Grading - Sec 1\SP3BStarter\SP3BStarter\SportsPro\obj\Debug\SportsPro.csprojAssemblyReference.cache
+C:\!CIS Curriculum\CIS296 Adv MS Web PC\!Grading - Sec 1\SP3BStarter\SP3BStarter\SportsPro\obj\Debug\SportsPro.csproj.CopyComplete
+C:\!CIS Curriculum\CIS296 Adv MS Web PC\!Grading - Sec 1\SP3BStarter\SP3BStarter\SportsPro\obj\Debug\SportsPro.dll
+C:\!CIS Curriculum\CIS296 Adv MS Web PC\!Grading - Sec 1\SP3BStarter\SP3BStarter\SportsPro\obj\Debug\SportsPro.pdb
+D:\STI-PROG_SPR2019-20\AdvMSWebDev\LamMSportsPro3B\SportsPro\bin\roslyn\csc.exe
+D:\STI-PROG_SPR2019-20\AdvMSWebDev\LamMSportsPro3B\SportsPro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\STI-PROG_SPR2019-20\AdvMSWebDev\LamMSportsPro3B\SportsPro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\STI-PROG_SPR2019-20\AdvMSWebDev\LamMSportsPro3B\SportsPro\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\STI-PROG_SPR2019-20\AdvMSWebDev\LamMSportsPro3B\SportsPro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\STI-PROG_SPR2019-20\AdvMSWebDev\LamMSportsPro3B\SportsPro\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\STI-PROG_SPR2019-20\AdvMSWebDev\LamMSportsPro3B\SportsPro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\STI-PROG_SPR2019-20\AdvMSWebDev\LamMSportsPro3B\SportsPro\bin\roslyn\System.Collections.Immutable.dll
+D:\STI-PROG_SPR2019-20\AdvMSWebDev\LamMSportsPro3B\SportsPro\bin\roslyn\System.Reflection.Metadata.dll
+D:\STI-PROG_SPR2019-20\AdvMSWebDev\LamMSportsPro3B\SportsPro\bin\roslyn\vbc.exe
+D:\STI-PROG_SPR2019-20\AdvMSWebDev\LamMSportsPro3B\SportsPro\bin\roslyn\VBCSCompiler.exe
+D:\STI-PROG_SPR2019-20\AdvMSWebDev\LamMSportsPro3B\SportsPro\bin\roslyn\VBCSCompiler.exe.config
+D:\STI-PROG_SPR2019-20\AdvMSWebDev\LamMSportsPro3B\SportsPro\bin\SportsPro.dll.config
+D:\STI-PROG_SPR2019-20\AdvMSWebDev\LamMSportsPro3B\SportsPro\bin\SportsPro.dll
+D:\STI-PROG_SPR2019-20\AdvMSWebDev\LamMSportsPro3B\SportsPro\bin\SportsPro.pdb
+D:\STI-PROG_SPR2019-20\AdvMSWebDev\LamMSportsPro3B\SportsPro\bin\Antlr3.Runtime.dll
+D:\STI-PROG_SPR2019-20\AdvMSWebDev\LamMSportsPro3B\SportsPro\bin\AspNet.ScriptManager.bootstrap.dll
+D:\STI-PROG_SPR2019-20\AdvMSWebDev\LamMSportsPro3B\SportsPro\bin\AspNet.ScriptManager.jQuery.dll
+D:\STI-PROG_SPR2019-20\AdvMSWebDev\LamMSportsPro3B\SportsPro\bin\EntityFramework.dll
+D:\STI-PROG_SPR2019-20\AdvMSWebDev\LamMSportsPro3B\SportsPro\bin\EntityFramework.SqlServer.dll
+D:\STI-PROG_SPR2019-20\AdvMSWebDev\LamMSportsPro3B\SportsPro\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\STI-PROG_SPR2019-20\AdvMSWebDev\LamMSportsPro3B\SportsPro\bin\Microsoft.AspNet.Identity.Core.dll
+D:\STI-PROG_SPR2019-20\AdvMSWebDev\LamMSportsPro3B\SportsPro\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\STI-PROG_SPR2019-20\AdvMSWebDev\LamMSportsPro3B\SportsPro\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\STI-PROG_SPR2019-20\AdvMSWebDev\LamMSportsPro3B\SportsPro\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\STI-PROG_SPR2019-20\AdvMSWebDev\LamMSportsPro3B\SportsPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\STI-PROG_SPR2019-20\AdvMSWebDev\LamMSportsPro3B\SportsPro\bin\Microsoft.Owin.dll
+D:\STI-PROG_SPR2019-20\AdvMSWebDev\LamMSportsPro3B\SportsPro\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\STI-PROG_SPR2019-20\AdvMSWebDev\LamMSportsPro3B\SportsPro\bin\Microsoft.Owin.Security.Cookies.dll
+D:\STI-PROG_SPR2019-20\AdvMSWebDev\LamMSportsPro3B\SportsPro\bin\Microsoft.Owin.Security.dll
+D:\STI-PROG_SPR2019-20\AdvMSWebDev\LamMSportsPro3B\SportsPro\bin\Microsoft.Owin.Security.Facebook.dll
+D:\STI-PROG_SPR2019-20\AdvMSWebDev\LamMSportsPro3B\SportsPro\bin\Microsoft.Owin.Security.Google.dll
+D:\STI-PROG_SPR2019-20\AdvMSWebDev\LamMSportsPro3B\SportsPro\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\STI-PROG_SPR2019-20\AdvMSWebDev\LamMSportsPro3B\SportsPro\bin\Microsoft.Owin.Security.OAuth.dll
+D:\STI-PROG_SPR2019-20\AdvMSWebDev\LamMSportsPro3B\SportsPro\bin\Microsoft.Owin.Security.Twitter.dll
+D:\STI-PROG_SPR2019-20\AdvMSWebDev\LamMSportsPro3B\SportsPro\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\STI-PROG_SPR2019-20\AdvMSWebDev\LamMSportsPro3B\SportsPro\bin\Microsoft.ScriptManager.WebForms.dll
+D:\STI-PROG_SPR2019-20\AdvMSWebDev\LamMSportsPro3B\SportsPro\bin\Microsoft.Web.Infrastructure.dll
+D:\STI-PROG_SPR2019-20\AdvMSWebDev\LamMSportsPro3B\SportsPro\bin\Newtonsoft.Json.dll
+D:\STI-PROG_SPR2019-20\AdvMSWebDev\LamMSportsPro3B\SportsPro\bin\Owin.dll
+D:\STI-PROG_SPR2019-20\AdvMSWebDev\LamMSportsPro3B\SportsPro\bin\System.Web.Optimization.dll
+D:\STI-PROG_SPR2019-20\AdvMSWebDev\LamMSportsPro3B\SportsPro\bin\System.Web.Providers.dll
+D:\STI-PROG_SPR2019-20\AdvMSWebDev\LamMSportsPro3B\SportsPro\bin\WebGrease.dll
+D:\STI-PROG_SPR2019-20\AdvMSWebDev\LamMSportsPro3B\SportsPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\STI-PROG_SPR2019-20\AdvMSWebDev\LamMSportsPro3B\SportsPro\bin\System.Web.Optimization.xml
+D:\STI-PROG_SPR2019-20\AdvMSWebDev\LamMSportsPro3B\SportsPro\bin\Antlr3.Runtime.pdb
+D:\STI-PROG_SPR2019-20\AdvMSWebDev\LamMSportsPro3B\SportsPro\bin\Newtonsoft.Json.xml
+D:\STI-PROG_SPR2019-20\AdvMSWebDev\LamMSportsPro3B\SportsPro\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\STI-PROG_SPR2019-20\AdvMSWebDev\LamMSportsPro3B\SportsPro\bin\EntityFramework.xml
+D:\STI-PROG_SPR2019-20\AdvMSWebDev\LamMSportsPro3B\SportsPro\bin\EntityFramework.SqlServer.xml
+D:\STI-PROG_SPR2019-20\AdvMSWebDev\LamMSportsPro3B\SportsPro\bin\Microsoft.AspNet.Identity.Core.xml
+D:\STI-PROG_SPR2019-20\AdvMSWebDev\LamMSportsPro3B\SportsPro\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\STI-PROG_SPR2019-20\AdvMSWebDev\LamMSportsPro3B\SportsPro\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\STI-PROG_SPR2019-20\AdvMSWebDev\LamMSportsPro3B\SportsPro\bin\System.Web.Providers.xml
+D:\STI-PROG_SPR2019-20\AdvMSWebDev\LamMSportsPro3B\SportsPro\bin\Microsoft.Owin.xml
+D:\STI-PROG_SPR2019-20\AdvMSWebDev\LamMSportsPro3B\SportsPro\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\STI-PROG_SPR2019-20\AdvMSWebDev\LamMSportsPro3B\SportsPro\bin\Microsoft.Owin.Security.xml
+D:\STI-PROG_SPR2019-20\AdvMSWebDev\LamMSportsPro3B\SportsPro\bin\Microsoft.Owin.Security.Facebook.xml
+D:\STI-PROG_SPR2019-20\AdvMSWebDev\LamMSportsPro3B\SportsPro\bin\Microsoft.Owin.Security.Cookies.xml
+D:\STI-PROG_SPR2019-20\AdvMSWebDev\LamMSportsPro3B\SportsPro\bin\Microsoft.Owin.Security.Google.xml
+D:\STI-PROG_SPR2019-20\AdvMSWebDev\LamMSportsPro3B\SportsPro\bin\Microsoft.Owin.Security.Twitter.xml
+D:\STI-PROG_SPR2019-20\AdvMSWebDev\LamMSportsPro3B\SportsPro\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\STI-PROG_SPR2019-20\AdvMSWebDev\LamMSportsPro3B\SportsPro\bin\Microsoft.Owin.Security.OAuth.xml
+D:\STI-PROG_SPR2019-20\AdvMSWebDev\LamMSportsPro3B\SportsPro\obj\Debug\SportsPro.csprojAssemblyReference.cache
+D:\STI-PROG_SPR2019-20\AdvMSWebDev\LamMSportsPro3B\SportsPro\obj\Debug\SportsPro.csproj.CopyComplete
+D:\STI-PROG_SPR2019-20\AdvMSWebDev\LamMSportsPro3B\SportsPro\obj\Debug\SportsPro.dll
+D:\STI-PROG_SPR2019-20\AdvMSWebDev\LamMSportsPro3B\SportsPro\obj\Debug\SportsPro.pdb

@@ -1,0 +1,81 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Site.master.cs" Inherits="Site" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head id="Head1" runat="server">
+    <title>SportsPro Software</title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .MainHeading
+        {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 48pt;
+            font-weight: bold;
+            font-style: italic;
+            color: #0000FF;
+        }
+        .Subheading
+        {
+            font-size: x-large;
+            color: #FF0000;
+        }
+        .Table
+        {
+            width: 685px;
+        }
+        .ContactRow
+        {
+            height: 25px;
+        }
+        .SmallFont
+        {
+            font-size: x-small;
+        }
+        .Yellow
+        {
+            background-color: #FFFF00;
+            border-color: #FFFF00;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <span class="MainHeading">SportsPro</span><br />
+        <span class="Subheading">Sports management software for the sports enthusiast</span><br />
+        <br />
+        <table class="Table" cellpadding="8" cellspacing="0">
+            <tr>
+                <td class="Yellow" valign="top">
+                    <asp:Menu ID="Menu1" runat="server" Orientation="Horizontal" BackColor="Yellow" DataSourceID="SiteMapDataSource1" StaticEnableDefaultPopOutImage="False">
+                        <StaticMenuItemStyle HorizontalPadding="8px" />
+                        <DynamicMenuStyle BackColor="Yellow" HorizontalPadding="8px" />
+                    </asp:Menu>
+                    <asp:SiteMapDataSource ID="SiteMapDataSource1" runat="server" ShowStartingNode="False" />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <br />
+                    <asp:contentplaceholder id="Main" runat="server">
+                    </asp:contentplaceholder>
+                    <br />
+                </td>
+            </tr>
+            <tr class="ContactRow">
+                <td class="Yellow">
+                    <span class="SmallFont">
+                    To contact us, call us at 800-555-0400 or email us at 
+                    </span>
+                    <asp:HyperLink ID="HyperLink4" runat="server" 
+                        NavigateUrl="mailto:sportsprosoftware@sportspro.com" ForeColor="Blue" 
+                        Font-Size="X-Small">sportspro@sportsprosoftware.com</asp:HyperLink>
+                </td>
+            </tr>
+        </table>
+    </div>
+    </form>
+</body>
+</html>
